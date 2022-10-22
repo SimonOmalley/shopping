@@ -1,8 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
 h1{
-    color: black;
-    background-color: azure;
-    
+    color: black;    
 }
 .insta{
     font-size: 20px;
@@ -16,7 +14,7 @@ h1{
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    margin: 4px 2px;
+    margin: 5px 0px;
     cursor: pointer;
     background-color: #7b8aa9;
   }
@@ -45,14 +43,25 @@ div img {
     height: 100%;      
     background-color: rgb(0, 255, 81);
 }
-section {
-    width: 100%;  
-    background-color: rgb(0, 255, 81); 
-    border: 5px solid red;
-}
 .blue{
     color: blue;
 }
 .red{
     color: red;
+}
+.freeship{
+    text-align: center;
+}
+.section1{
+    background-color: white;
+}
+.section2{
+    background-color: #89b6A5;
+    height: 564px;
+}
+.featured{
+    color: black;
+    font-weight:1000;
+    text-align: center;
+    padding-top: 20px;
 }
