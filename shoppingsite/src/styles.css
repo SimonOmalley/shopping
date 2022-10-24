@@ -46,12 +46,16 @@ div img {
 
 .freeship{
     text-align: center;
+    
 }
 .section1{
     background-color: white;
 }
 .section2{
     background-color: #89b6A5;
+    height: 564px;
+}
+.section3{
     height: 564px;
 }
 .featured{
