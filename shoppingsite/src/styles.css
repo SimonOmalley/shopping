@@ -71,9 +71,7 @@ section4{
   border-radius: 30px;
 }
 .img1 {
-  position: absolute;
-  top: 0;
-  left: 0;
+  position: absolute;  
   height: 600px;
   border-radius: 8px;
 }
